@@ -1,1 +1,1 @@
-# emma-test-project
+# Emma Test Project
